@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jerome philip john
-- 👀 I’m interested in web designing.
+- 👀 curious in learning new stuff and facing Challenges
 - 🌱 I’m currently pursuing btech in computer science
   
 
