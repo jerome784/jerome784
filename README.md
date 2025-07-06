@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Jerome Philip John
+#  Hello, I'm Jerome Philip John
 
-🎓 Computer Science Undergraduate | 📊 Aspiring Data Scientist | 💻 Passionate Developer
+🎓 Computer Science Undergraduate | Aspiring Data Scientist | 💻 Passionate Developer
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I am an enthusiastic and goal-driven Computer Science student with a growing passion for **Data Science**, **Software Development**, and **Problem Solving**. With a solid foundation in **Data Structures and Algorithms**, and proficiency in multiple programming languages, I aim to build impactful, real-world solutions using data-driven approaches.
 
@@ -12,22 +12,22 @@ I am an enthusiastic and goal-driven Computer Science student with a growing pas
 
 ## 🎯 Currently Focusing On
 
-- 🌱 Advancing my skills in **Data Science** and **Machine Learning**
-- 🛠 Building projects using Python, Pandas, NumPy, Matplotlib, and Seaborn
-- 📘 Solving algorithmic problems to strengthen problem-solving abilities
-- 🌐 Exploring web technologies and backend development fundamentals
+-  Advancing my skills in **Data Science** and **Machine Learning**
+-  Building projects using Python, Pandas, NumPy, Matplotlib, and Seaborn
+-  Solving algorithmic problems to strengthen problem-solving abilities
+-  Exploring web technologies and backend development fundamentals
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages  
+###  Programming Languages  
 - C, C++, Java, Python, SQL
 
-### 📚 Data Science & Analytics  
+###  Data Science & Analytics  
 - NumPy, Pandas, Matplotlib, Seaborn
 
-### 🌐 Web Development  
+### Web Development  
 - HTML5, CSS3
 
 ---
