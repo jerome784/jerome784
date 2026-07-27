@@ -1,82 +1,293 @@
+<div align="center">
+
 # Hi, I'm Jerome Philip John 👋
 
-🎓 Computer Science Graduate | Java Backend Developer | AWS Certified | DevOps Enthusiast
+### Java Backend Developer • AWS Certified • DevOps Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=3FB950&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;AWS+Certified;Docker+%7C+Kubernetes+%7C+Jenkins;Building+Cloud-Native+Applications;Always+Learning+Something+New" alt="Typing SVG"/>
+
+<p>
+I enjoy building scalable backend systems, cloud-native applications, and automation pipelines using modern Java technologies.
+</p>
+
+<p>
+
+<a href="https://www.linkedin.com/in/jerome-john-8b7ab8288">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-I'm a Computer Science graduate passionate about building scalable backend applications and cloud-native solutions. I enjoy designing RESTful APIs, developing microservices, and automating deployments using modern DevOps practices.
+```java
+public class JeromePhilipJohn {
 
-My primary focus is Java backend development with Spring Boot, complemented by cloud technologies and containerized application deployment. I continuously improve my problem-solving skills through Data Structures & Algorithms and hands-on project development.
+    String role = "Java Backend Developer";
+
+    String education = "B.Tech Computer Science Graduate";
+
+    String[] certifications = {
+        "AWS Certified Cloud Practitioner",
+        "AWS Certified AI Practitioner"
+    };
+
+    String[] interests = {
+        "Java Backend Development",
+        "Cloud Computing",
+        "Microservices",
+        "DevOps",
+        "System Design"
+    };
+
+    String[] currentlyLearning = {
+        "Spring Security",
+        "Apache Kafka",
+        "Redis",
+        "Terraform",
+        "Advanced Kubernetes"
+    };
+
+    String motto = "Build • Deploy • Automate • Improve";
+}
+```
 
 ---
 
-## 🚀 Currently Working On
+# 🚀 What I'm Currently Working On
 
-- Developing backend applications using **Java** and **Spring Boot**
-- Building **Microservices** and REST APIs
-- Learning advanced **System Design** concepts
-- Implementing **CI/CD pipelines** with Jenkins
-- Deploying applications using **Docker**, **Kubernetes**, and **AWS**
-- Strengthening **Data Structures & Algorithms** for technical interviews
+- 🔹 Developing scalable backend applications using **Spring Boot**
+- 🔹 Building RESTful APIs and Microservices
+- 🔹 Learning advanced **System Design**
+- 🔹 Deploying applications using **Docker**, **Kubernetes**, and **AWS**
+- 🔹 Implementing **CI/CD pipelines** with Jenkins
+- 🔹 Solving **Data Structures & Algorithms** problems
 
 ---
 
-## 💻 Technical Skills
+# 💻 Tech Stack
 
-### Programming Languages
-- Java
-- Python
-- C
-- C++
-- SQL
+## ☕ Languages
 
-### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql"/>
+</p>
+
+---
+
+## 🌱 Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+</p>
+
 - Spring Boot
 - Spring MVC
 - Spring Data JPA
 - Hibernate
 - REST APIs
 - Microservices
+- Spring Security
 
-### Databases
-- MySQL
+---
 
-### Cloud & DevOps
-- AWS (2× AWS Certified)
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,linux"/>
+</p>
+
+- AWS
 - Docker
 - Kubernetes
 - Jenkins
 - Git
-- Maven
+- GitHub Actions
 - Linux
+- CI/CD
 
-### Tools & Technologies
-- GitHub
-- Postman
-- IntelliJ IDEA
-- Eclipse
-- VS Code
+---
 
+## 🗄️ Databases
 
-## 🌱 Currently Learning
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
-- Spring Security & JWT Authentication
-- Advanced Microservices
+- MySQL
+- Redis *(Currently Learning)*
+
+---
+
+# 🏗️ Backend Architecture
+
+```text
+                     Client
+                        │
+                        ▼
+                 API Gateway
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+        ▼               ▼               ▼
+ Patient Service   Doctor Service   Appointment Service
+        │               │               │
+        └───────────────┼───────────────┘
+                        ▼
+                  Spring Boot
+                        │
+                 Docker Containers
+                        │
+                  Kubernetes Cluster
+                        │
+                     AWS Cloud
+                        │
+                      MySQL
+```
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🚀 TaskFlow
+
+Cloud-native Task Management Platform
+
+### Highlights
+
+- Spring Boot
+- REST APIs
+- MySQL
+- Docker
+- Kubernetes
+- Jenkins
+- AWS
+- JWT Authentication
+
+</td>
+
+<td width="50%">
+
+## 🏥 MediFlow
+
+Hospital Management System
+
+### Highlights
+
+- Spring Boot
+- Microservices
+- Eureka
+- API Gateway
+- Hibernate
+- MySQL
+- JWT Authentication
+
+</td>
+
+</tr>
+</table>
+
+> More projects are available in the repositories below.
+
+---
+
+# 🏆 Certifications
+
+- ☁️ AWS Certified Cloud Practitioner
+- 🤖 AWS Certified AI Practitioner
+
+---
+
+# 📖 Currently Learning
+
+- Spring Security
+- Apache Kafka
+- Redis
+- Terraform
+- Advanced Kubernetes
 - Distributed Systems
-- System Design
-- AWS Services
-- Kubernetes & Cloud-Native Architecture
+- High-Level System Design
 
 ---
 
-##  Let's Connect
+# 🎯 2026 Goals
 
-📧 **Email:** <jeromephilipjohn@gmail.com>
-
-💼 **LinkedIn:**  https://www.linkedin.com/in/jerome-philip-john-8b7ab8288/
+- ✅ Secure a Java Backend Developer role
+- ✅ Build production-ready Microservices
+- ✅ Master AWS Cloud Services
+- ✅ Become proficient in Kubernetes
+- ✅ Learn Distributed Systems
+- ✅ Contribute to Open Source
 
 ---
 
-> *"Building scalable backend systems with Java, Spring Boot, AWS, and DevOps."*
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/jerome-john-8b7ab8288">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Developer Philosophy
+
+> **"Good software isn't just about writing code—it's about designing reliable systems, automating workflows, and continuously improving."**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=3FB950"/>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
