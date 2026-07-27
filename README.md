@@ -238,17 +238,17 @@ Hospital Management System
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jerome784&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerome784&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jerome784&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Y=jerome784&theme=github-dark"/>
 
 </div>
 
@@ -258,7 +258,7 @@ Hospital Management System
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jeromephilipjohn@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -270,7 +270,7 @@ Hospital Management System
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/jerome784">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -286,7 +286,7 @@ Hospital Management System
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=3FB950"/>
+<img src="https://komarev.com/ghpvc/?username=jerome784&style=for-the-badge&color=3FB950"/>
 
 ### ⭐ Thanks for visiting my profile!
 
