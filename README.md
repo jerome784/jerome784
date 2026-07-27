@@ -233,27 +233,6 @@ Hospital Management System
 - ✅ Contribute to Open Source
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jerome784&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerome784&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jerome784&theme=github-dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Y=jerome784&theme=github-dark"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
