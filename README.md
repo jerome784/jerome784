@@ -1,45 +1,82 @@
-#  Hello, I'm Jerome Philip John
+# Hi, I'm Jerome Philip John 👋
 
-🎓 Computer Science Undergraduate | Aspiring Data Scientist | 💻 Passionate Developer
+🎓 Computer Science Graduate | Java Backend Developer | AWS Certified | DevOps Enthusiast
 
 ---
 
 ## About Me
 
-I am an enthusiastic and goal-driven Computer Science student with a growing passion for **Data Science**, **Software Development**, and **Problem Solving**. With a solid foundation in **Data Structures and Algorithms**, and proficiency in multiple programming languages, I aim to build impactful, real-world solutions using data-driven approaches.
+I'm a Computer Science graduate passionate about building scalable backend applications and cloud-native solutions. I enjoy designing RESTful APIs, developing microservices, and automating deployments using modern DevOps practices.
+
+My primary focus is Java backend development with Spring Boot, complemented by cloud technologies and containerized application deployment. I continuously improve my problem-solving skills through Data Structures & Algorithms and hands-on project development.
 
 ---
 
-## 🎯 Currently Focusing On
+## 🚀 Currently Working On
 
--  Advancing my skills in **Data Science** and **Machine Learning**
--  Building projects using Python, Pandas, NumPy, Matplotlib, and Seaborn
--  Solving algorithmic problems to strengthen problem-solving abilities
--  Exploring web technologies and backend development fundamentals
-
----
-
-## Technical Skills
-
-###  Programming Languages  
-- C, C++, Java, Python, SQL
-
-###  Data Science & Analytics  
-- NumPy, Pandas, Matplotlib, Seaborn
-
-### Web Development  
-- HTML5, CSS3
+- Developing backend applications using **Java** and **Spring Boot**
+- Building **Microservices** and REST APIs
+- Learning advanced **System Design** concepts
+- Implementing **CI/CD pipelines** with Jenkins
+- Deploying applications using **Docker**, **Kubernetes**, and **AWS**
+- Strengthening **Data Structures & Algorithms** for technical interviews
 
 ---
 
+## 💻 Technical Skills
 
-## 📌 Let's Connect
+### Programming Languages
+- Java
+- Python
+- C
+- C++
+- SQL
 
-- 📧 Email: [jerinjerome22@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/jerome-john-8b7ab8288/)
+### Backend Development
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Microservices
 
+### Databases
+- MySQL
+
+### Cloud & DevOps
+- AWS (2× AWS Certified)
+- Docker
+- Kubernetes
+- Jenkins
+- Git
+- Maven
+- Linux
+
+### Tools & Technologies
+- GitHub
+- Postman
+- IntelliJ IDEA
+- Eclipse
+- VS Code
+
+
+## 🌱 Currently Learning
+
+- Spring Security & JWT Authentication
+- Advanced Microservices
+- Distributed Systems
+- System Design
+- AWS Services
+- Kubernetes & Cloud-Native Architecture
 
 ---
 
-> *"Driven by curiosity, guided by logic, and empowered by data."*
+##  Let's Connect
 
+📧 **Email:** <jeromephilipjohn@gmail.com>
+
+💼 **LinkedIn:**  https://www.linkedin.com/in/jerome-philip-john-8b7ab8288/
+
+---
+
+> *"Building scalable backend systems with Java, Spring Boot, AWS, and DevOps."*
